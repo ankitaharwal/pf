@@ -13,7 +13,7 @@ of each node such as impurity, class distribution ,etc.
 •Technologies used: Python (SK learn) and graphviz.
 ```
 This is screenshot of working decision tree.
-<img src="/images/decision_tree.png" width="400" height="790">
+<img src="/images/decision_tree.png" width="400" height="200" style="float:left">
 
 This is another screenshot with classification with Logistic regession and standard node.
-<img src="/images/working2.png" width="400" height="790">
+<img src="/images/working2.png" width="400" height="200" style="float:left">
