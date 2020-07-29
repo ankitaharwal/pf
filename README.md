@@ -1,4 +1,5 @@
 ## Project 1: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
+To verify this certificate visit: https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2
 
 ```markdown
 •Ported MXNet Code into Pytorch for the book Dive Into Deep Learning by Aston
@@ -13,6 +14,7 @@ forks).
 
 
 ## Project 2: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
+To verify this certificate visit: https://ecertificate.iitr.ac.in/verification/6694e25f-3ec0-48b7-a168-c469dfd30ed7
 
 ```markdown
 •Variant of Advanced Decision Tree from scratch.
@@ -27,12 +29,13 @@ of each node such as impurity, class distribution ,etc.
 •Technologies used: Python (SK learn) and graphviz.
 ```
 This is screenshot of working decision tree.<br>
-<img src="/images/decision_tree.png">
+![](/images/decision_tree.png)
 
 This is another screenshot with classification with Logistic regession and standard node.
-<img src="/images/working2.png" width="500" height="530" style="float:middle">
+![](/images/working2.png)
 
 ## Project 3: [Number plate Detection](https://github.com/dsgiitr/np_detection), Data Science Group, IIT Roorkee
+To verify this certificate visit: https://ecertificate.iitr.ac.in/verification/2c5c8c95-0dd6-4ab2-bed7-8e74ded1812d
 
 ```markdown
 •Detect vehicles and record their number plates from CCTV camera for security
@@ -41,8 +44,8 @@ purpose.
 (openCV) and outputs the digits (OCR) .
 •Technologies used: Pytorch, openCV and YOLO.
 ```
-<img src="/images/car.png">
+![](/images/car.png)
 
-<img src="/images/plate.png">
+![](/images/plate.png)
 
-<img src="/images/term.png">
+![](/images/term.png)
