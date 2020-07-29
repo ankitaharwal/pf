@@ -8,6 +8,9 @@ tree node.<br>
 •Made customizable graph which can show different features of each node such as impurity, class distribution ,etc.<br>
 •Whole Tree structure can viewed in graphical format.<br>
 •Technologies used: Python (SK learn) and graphviz.<br>
-
-
 ```
+This is screenshot of working decision tree.
+![](/images/decision_tree.png)
+
+This is another screenshot with classification with Logistic regession and standard node.
+![](/images/working2.png)
