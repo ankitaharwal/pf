@@ -2,16 +2,18 @@
 
 ```markdown
 •Variant of Advanced Decision Tree from scratch.
-•Each node could be any Machine Learning model like Neural Network, SVM or basic decision
+•Each node could be any Machine Learning model like 
+Neural Network, SVM or basic decision
 tree node.
-•Can have non-linear decision boundary unlike standard decision tree can only have parallel to feature boundary.
-•Made customizable graph which can show different features of each node such as impurity, class distribution ,etc.
+•Can have non-linear decision boundary unlike standard 
+decision tree can only have parallel to feature boundary.
+•Made customizable graph which can show different features 
+of each node such as impurity, class distribution ,etc.
 •Whole Tree structure can viewed in graphical format.
 •Technologies used: Python (SK learn) and graphviz.
 ```
-
 This is screenshot of working decision tree.
-![](/images/decision_tree.png)
+<img src="/images/decision_tree.png" width="400" height="790">
 
 This is another screenshot with classification with Logistic regession and standard node.
-![](/images/working2.png)
+<img src="/images/working2.png" width="400" height="790">
