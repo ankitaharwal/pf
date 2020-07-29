@@ -8,7 +8,8 @@ Jhang et al.
 forks).
 •Technologies used: Python(Pytorch).
 ```
-<img src="/images/d2l.png">
+
+![](/images/d2l.png)
 
 
 ## Project 2: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
