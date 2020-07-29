@@ -1,6 +1,6 @@
 ## Project 1: Decision Tree Steroid (Data Science Group, IIT Roorkee)
   
-
+```markdown
 •Variant of Advanced Decision Tree from scratch.<br>
 •Each node could be any Machine Learning model like Neural Network, SVM or basic decision
 tree node.<br>
@@ -9,5 +9,5 @@ tree node.<br>
 •Whole Tree structure can viewed in graphical format.<br>
 •Technologies used: Python (SK learn) and graphviz.<br>
 
-```markdown
+
 ```
